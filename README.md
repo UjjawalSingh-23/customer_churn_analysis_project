@@ -22,24 +22,6 @@ This project aims to uncover **why customers leave** and what factors drive thei
 
 ---
 
-## 📦 Project Structure
-
-```
-Customer_Churn_Project/
-│
-├── images/
-    ├── churn_distribution.png
-    ├── contract_churn.png
-    ├── Gender_churn.png
-    ├── monthly_charges_by_churn.png
-    ├── payment_churn.png
-    └── senior_citizen.png
-    ├── tech_support.png
-    └── total_charges_by_churn.png
-├── Customer_Churn_Analysis.ipynb
-├── README.md
-└── tel_churn.csv
-```
 
 ---
 
