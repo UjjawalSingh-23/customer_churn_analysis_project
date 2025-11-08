@@ -126,8 +126,6 @@ plt.savefig("images/Gender_churn.png", bbox_inches="tight")
 
 ---
 
-### 🔹 4. Numerical Feature Analysis
-
 #### Monthly Charges by Churn
 ```python
 Mth = sns.kdeplot(telco_data_dummies.MonthlyCharges[(telco_data_dummies['Churn'] == 0)], color = 'Red', shade = True)
