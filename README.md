@@ -18,9 +18,7 @@ This project aims to uncover **why customers leave** and what factors drive thei
 - **Language:** Python 🐍  
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
 - **IDE:** PyCharm (or Jupyter/Colab)  
-- **Dataset:** `CustomerChurn.csv`  
-
----
+- **Dataset:** `tel_Churn.csv`  
 
 
 ---
